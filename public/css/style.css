@@ -1,0 +1,32 @@
+.menu-style{
+    margin-top: 20px;
+    width: 450px;
+    height: 290px;
+    border-radius: 5px;
+    text-align: center;
+}
+ul{
+
+    padding-left: 0px;
+}
+.menu-li{
+    background: white;
+    padding: 10px;
+    margin: 5px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+a{
+    color: black;
+    font-size: 21px;
+    text-decoration: none;
+}
+.menu-li:hover{
+    background: #e7e5e5;
+}
+
+.font{
+    font-size: 27px;
+}
+
+
